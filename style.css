@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+form {
+    border: 5px solid white;
+    border-radius: 3vh;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    background-color: white;
+}
+
+#divPhp {
+    border: 5px solid white;
+    border-radius: 3vh;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    background-color: white;
+}
+
+#mesTentativi, #sbagliato {
+    color: red;
+}
+
+#indovinato {
+    color: green;
+}
+
+#returnHome {
+    border: 1px solid lightgrey;
+    border-radius: 1vh;
+    text-decoration: none;
+    width: 10%;
+    background-color: lightgray;
+    padding: 5px;
+    color: black;
+}
+
+#titolo {
+    color: blue;
+}
+
+#buttonSend {
+    border:1px solid green;
+    background-color: green;
+    color: white;
+    width: 8%;
+    border-radius: 1vh;
+    padding: 5px;
+}
